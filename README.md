@@ -1,2 +1,1 @@
-# LearnPython
-python学习
+# vimrc
